@@ -1,0 +1,1 @@
+SELECT DISTINCT model FROM bmw;
